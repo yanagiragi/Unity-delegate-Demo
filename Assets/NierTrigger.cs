@@ -4,7 +4,9 @@ using System.Collections;
 /*
  *  Author:     yanagiragi 
  *  Purpose:    用來測試事件的Script，綁在測試模型(Yorha 2B)上
+ *  Reminds:    需要掛上Collider
  */
+
 
 public class NierTrigger : BaseTrigger {
 
